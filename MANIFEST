@@ -1,0 +1,6 @@
+Makefile.PL
+MANIFEST
+lib/WWW/Search/Monster.pm
+readme
+Changes
+META.yml                                 Module meta-data (added by MakeMaker)
