@@ -8,7 +8,7 @@
 #       4 space indent (tabs expanded to spaces)
 #       80 character max line length.
 #       
-#   $Id: Monster.pm,v 1.3 2004/06/20 22:54:27 craigk Exp $    
+#   $Id: Monster.pm,v 1.4 2004/06/25 20:53:49 craigk Exp $    
 #=====================================================================
 package WWW::Search::Monster;
 
@@ -22,7 +22,7 @@ use vars qw( $VERSION $MAINTAINER @ISA );
 
 
 @ISA = qw( WWW::Search );
-$VERSION = '1.00';
+$VERSION = '1.01';
 $MAINTAINER = 'Craig Kadziolka <craigk@interia.pl>';
 
 #---------------------------------------------------------------------

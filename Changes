@@ -1,3 +1,7 @@
-1.00 Mon Jun 21 23:09:00 GMT 2004
+
+1.01 Fri Jun 25 2004
+    - Updated the dependencies list in Makefile.PL
+
+1.00 Mon Jun 21 2004
     - Initial release.
     

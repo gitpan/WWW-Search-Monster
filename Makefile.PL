@@ -6,7 +6,9 @@ WriteMakefile(
 	       ABSTRACT => 'Search backend for www.monster.com') : (),
 	      'VERSION_FROM' => 'lib/WWW/Search/Monster.pm',
 	      'PREREQ_PM'    => {
-				 Cwd                 => '0',
+				 WWW::Search         => '0',
+				 HTML::TreeBuilder   => '0',
+				 WWW::Search::Result => '0',
 				},
 	      dist	        => {COMPRESS => 'gzip', SUFFIX => 'tar.gz'},
 );
